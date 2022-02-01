@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jagan24680
-- 👀 I’m interested in coading
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning python (py)
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me (jaganmohanreddy24680@gmail.com)
